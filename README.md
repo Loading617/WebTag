@@ -1,2 +1,2 @@
 # WebTag
-ID3 Tag Editor Web App
+A ID3 Tag Editor for Web  
